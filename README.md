@@ -1,2 +1,2 @@
-# football-analysis-app
-Streamlit App: The Analysis of team tactics and player performances 
+# Football-Analysis-and-Clustring
+Streamlit App: Football team tactics and player performances analytics + Clustring
